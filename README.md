@@ -1,68 +1,49 @@
-Sheba.ai 🧠🌍
-Empowering Local Languages through AI | Building Inclusive Technology for Africa
+# 👋 Hi, we’re @ShebaAI
 
-🚀 About Sheba.ai
-Sheba.ai is an AI-powered initiative born in the Horn of Africa. It is dedicated to breaking language and technological barriers through inclusive, ethical, and community-driven innovation. We build cutting-edge Natural Language Processing (NLP), Speech Recognition, and Machine Learning tools tailored for East African languages, starting with underrepresented languages such as Amharic, Swahili, Tigrinya, Afaan Oromoo, and Somali.
+Sheba.ai is an AI startup committed to developing inclusive and ethical AI solutions for African languages and communities. Based in the Horn of Africa, we believe in building technological tools that reflect our identity, history, and collective future.
 
-Sheba.ai isn’t just a tech company. It’s a mission-driven movement to democratize access to AI and digital tools for marginalized communities by embracing ancestral wisdom and futuristic innovation.
+---
 
-🎯 Mission
-To develop and deploy AI tools that empower local languages, enhance digital inclusion, and unlock socio-economic opportunities for millions across East Africa.
+## 👀 We’re interested in...
+- Natural Language Processing (NLP) for underrepresented languages
+- Speech Recognition and Conversational AI
+- Multilingual AI models and data annotation tools
+- AI for education, health, and civic tech in East Africa
+- Open-source community projects that promote digital inclusion
 
-🌍 Vision
-A world where African communities have equal access to digital infrastructure, powered by AI that understands and speaks their language.
+---
 
-🧩 What We’re Building
-Multilingual NLP Models
-Custom-trained models for local language understanding, sentiment analysis, machine translation, and more.
+## 🌱 We’re currently learning...
+- Advanced model fine-tuning for low-resource languages
+- Building scalable, production-ready AI systems
+- Ethical data practices and community-led AI development
+- Cross-lingual embeddings and transformer architecture for local dialects
 
-Speech-to-Text & Voice Assistants
-Tools to recognize and process local dialects, enabling voice-based interaction for accessibility and inclusion.
+---
 
-Data Collection Pipelines
-Ethical, community-led data sourcing initiatives to build high-quality datasets for under-resourced languages.
+## 💞️ We’re looking to collaborate on...
+- Dataset creation and annotation for East African languages
+- Research partnerships on multilingual NLP and ASR
+- Open-source tools for local developers and researchers
+- Social impact AI projects that uplift marginalized voices
 
-AI-Powered Education & Health Solutions
-Intelligent platforms and bots to assist in education delivery, mental health support, and civic engagement.
+---
 
-Open Source Language Infrastructure
-APIs, datasets, and model checkpoints made openly available to researchers, developers, and innovators.
+## 📫 How to reach us...
+📧 Email: [info@sheba.ai](mailto:info@shebaa-ai.com)  
+🌐 Website: [www.sheba.ai](https://www.shebaa-ai.com)  
+🔗 LinkedIn: [Sheba.ai on LinkedIn](https://www.linkedin.com/company/sheba-ai)
 
-🛠️ Tech Stack
-Python (TensorFlow, PyTorch, HuggingFace Transformers)
+---
 
-Node.js (for backend services)
+## 😄 Pronouns:  
+We / Us (Team Sheba.ai)
 
-PostgreSQL / MongoDB (for structured & document data)
+---
 
-FastAPI / Flask APIs
+## ⚡ Fun fact:  
+The name **Sheba** honors the legendary Queen of Sheba from Axum, Ethiopia — a symbol of African intelligence, diplomacy, and sovereignty. Our dream is to build a digital “shebanda” powered by local languages and inclusive AI.
 
-Docker & GitHub Actions (for CI/CD)
+---
 
-React (for front-end)
-
-AWS / GCP (for scalable deployment)
-
-🤝 Join Us
-We're inviting linguists, developers, AI researchers, students, and local changemakers to contribute to building the future of inclusive AI.
-
-👥 Whether you're interested in:
-
-Collecting or annotating data
-
-Contributing to open-source code
-
-Collaborating on research
-
-Supporting our mission in any capacity
-
-We’d love to work with you.
-
-📬 Contact us at: info@shebaa-ai.com
-🌐 Visit: www.shebaa-ai.com
-
-🏛️ Inspired By
-Our name pays homage to Queen Sheba, the legendary figure of wisdom, diplomacy, and African leadership from Axum, Ethiopia. Like her, we aim to lead with vision, rooted in African identity and open to global innovation.
-
-📄 License
-This repository is released under the MIT License. See LICENSE for details.
+✨ Let’s build the future of AI for Africa, together.
